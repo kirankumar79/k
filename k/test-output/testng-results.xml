@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13638" started-at="2019-07-29T02:12:54Z" finished-at="2019-07-29T02:13:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13638" started-at="2019-07-29T02:12:54Z" finished-at="2019-07-29T02:13:08Z">
+      <class name="DropDownSort.VerifySortedAscending">
+        <test-method status="PASS" signature="runTestOnDocker()[pri:0, instance:DropDownSort.VerifySortedAscending@36d64342]" name="runTestOnDocker" duration-ms="13618" started-at="2019-07-29T07:42:54Z" finished-at="2019-07-29T07:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTestOnDocker -->
+      </class> <!-- DropDownSort.VerifySortedAscending -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
